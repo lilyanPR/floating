@@ -1,0 +1,35 @@
+
+.boxyellow
+{
+	background-color: yellow;
+	width: 25%;
+	height: 100px;
+	margin-bottom: 0px;
+	float: left;
+	
+}
+.boxblue
+{
+	background-color: blue;
+	width: 25%;
+	height: 100px;
+	margin-top: 0px;
+	float: left;
+
+	
+}
+.boxred
+{
+	background-color: red;
+	width: 25%;
+	height: 100px;
+	margin-top: 0px;
+	float: left;
+	
+}
+.contenedor{
+	height: 300px;
+	width: 90%;
+	border:1px solid grey;
+
+}
